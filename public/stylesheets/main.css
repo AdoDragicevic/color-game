@@ -125,7 +125,7 @@ button:hover {
         padding-bottom: 30%;
         float: left;
         margin: 1.6%;
-        border-radius: 3%;
+        border-radius: 30%;
         transition: background, 0.6s;
         -webkit-transition: background, 0.6s;
         -moz-transition: background, 0.6s;
@@ -144,6 +144,11 @@ button:hover {
 @media only screen and (max-width: 320px) {
     h1 {
         font-size: 1.8rem;
-        margin-bottom: 20px;    
+		margin-bottom: 15px;
+		padding: 0;
+		margin-top: 5px;
     }
+	nav {
+    	margin: 0;
+	}
 }
