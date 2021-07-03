@@ -1,5 +1,3 @@
-# color-game
-
-## Try it on Heroku
+# Try it on Heroku
 
 https://ado-colorgame.herokuapp.com/
